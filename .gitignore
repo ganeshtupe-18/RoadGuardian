@@ -1,0 +1,17 @@
+# Build files
+target/
+*.class
+
+# IDE files
+.idea/
+.vscode/
+*.iml
+
+# Firebase / Secrets
+guardian.json
+**/guardian.json
+
+# Environment / credentials
+.env
+*.key
+*.pem
